@@ -1,9 +1,9 @@
-# KenoAi
-KenoAi is a keno prediction artificial intelligence that uses machine learning to predict numbers of next draw in kino games.
-
 <p align="center">
   <img src="https://github.com/CorvusCodex/KenoAi/blob/main/KenoAi.png?raw=true">
 </p>
+
+# KenoAi
+KenoAi is a keno prediction artificial intelligence that uses machine learning to predict numbers of next draw in kino games.
 
 ## For people without technical experience you can buy the compiled standalone application for windows from here:
 
