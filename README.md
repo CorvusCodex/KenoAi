@@ -37,9 +37,9 @@ The code within this repository comes with no guarantee, the use of this code is
 Please keep in mind that while KenoAi.py uses advanced machine learning techniques to predict keno draw numbers, there is no guarantee that its predictions will be ever accurate. Keno results are inherently random and unpredictable, so it is important to use KenoAi responsibly and not rely on its predictions.
 
 
-MIT License
+## MIT License
 
-Copyright (c) 2023 CorvusCodex
+Copyright (c) 2025 CorvusCodex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
